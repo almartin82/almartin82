@@ -12,4 +12,4 @@ I'm a product of the [University of Chicago](https://socialsciences.uchicago.edu
 
 I'm the author and maintainer of [njschooldata](https://github.com/almartin82/njschooldata), an open-source project that creates a consistent interface into 20+ years of NJ educational data, written in R.
 
-Drop me a line at almartin at gmail.com if you'd like to say hi!
+Drop me a line at [almartin@gmail.com](mailto:almartin@gmail.com) if you'd like to say hi!
