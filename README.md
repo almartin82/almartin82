@@ -10,6 +10,6 @@ I'm deeply passionate about public education, and dream of a future with a more 
 
 I'm a product of the [University of Chicago](https://socialsciences.uchicago.edu/).  I live in Princeton, NJ with my amazing, talented wife Kerry and our four children.  
 
-I'm the author and maintainer of [njschooldata](https://github.com/almartin82/njschooldata), an open-source project that creates a consistent interface into 20+ years of NJ educational data, written in R.
+I'm the proprieter of [weird charts](www.weirdcharts.com), a love letter to strange and/or captivating charts that I've encountered on the web.  I'm the author and maintainer of several open source educational tools, particularly [njschooldata](https://github.com/almartin82/njschooldata), which wraps the hodgepodge of NJ educational data into a consistent, tidy interface.
 
 Drop me a line at [almartin@gmail.com](mailto:almartin@gmail.com) if you'd like to say hi!
