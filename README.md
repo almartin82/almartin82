@@ -12,6 +12,6 @@ I'm a product of the [University of Chicago](https://socialsciences.uchicago.edu
 
 I'm the author and maintainer of several open source educational tools, particularly [njschooldata](https://github.com/almartin82/njschooldata), which wraps the hodgepodge of NJ educational data into a consistent, tidy interface you can work with in R.
 
-Ten years on, I'm still carrying a torch for [google reader, RIP](https://www.buzzfeed.com/robf4/googles-lost-social-network).  In the absence of the magic "share with friends" button, I'm the proprieter of [weird charts](http://weirdcharts.com), a love letter to strange and/or captivating charts that I've encountered on the web.  I'm also playing around with [safe to eat](https://almartin82.github.io/safe-to-eat/) a podcast sharing and curation project.  
+Ten years on, I'm still carrying a torch for [google reader 🪦](https://www.buzzfeed.com/robf4/googles-lost-social-network).  In the absence of the magic "share with friends" button, I'm the proprieter of [weird charts](http://weirdcharts.com), a love letter to strange and/or captivating charts that I've encountered on the web.  I'm also playing around with [safe to eat](https://almartin82.github.io/safe-to-eat/) a podcast sharing and curation project.  
 
-Email at almartin@gmail.com](mailto:almartin@gmail.com) is best if you'd like to say hi!  And if you'd like to send me unsolicited sales messages, there's always [linkedin](https://www.linkedin.com/in/martinandrewl/)
+Email at [almartin@gmail.com](mailto:almartin@gmail.com) is best if you'd like to say hi!  And if you'd like to send me unsolicited sales messages, there's always [linkedin](https://www.linkedin.com/in/martinandrewl/)
