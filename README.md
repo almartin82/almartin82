@@ -8,7 +8,7 @@ I've also had the pleasure of leading Platform engineering at [Renaissance](http
 
 I'm deeply passionate about public education, and dream of a future with a more effective and more equitable systems of schools.  In Newark, I had a [front-row seat](https://www.the74million.org/article/the-prize-the-unwritten-appendix-by-those-inside-newarks-improving-schools/) for a particularly bold and contentious period in school reform - you might have [read about it](https://www.newyorker.com/magazine/2014/05/19/schooled)!   I started my career as a public school teacher in [the Bronx](https://insideschools.org/school/09X028) through Teach for America, helped found a college prep [high school](https://kippnj.org/schools/kipp-nca/) in Newark, and led data, research and technology for the [Newark Public Schools](https://www.nps.k12.nj.us/).  
 
-I'm a product of the [University of Chicago](https://socialsciences.uchicago.edu/).  I live in Montgomery, NJ with my amazing, talented wife Kerry and our four children.  
+I'm a product of the [University of Chicago](https://socialsciences.uchicago.edu/).  I live in Montgomery, NJ with my amazing, talented wife Kerry and our five children.  
 
 I'm the author and maintainer of several open source educational tools, particularly [njschooldata](https://github.com/almartin82/njschooldata), which wraps the hodgepodge of NJ educational data into a consistent, tidy interface you can work with in R.
 
