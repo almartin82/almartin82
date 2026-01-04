@@ -1,6 +1,6 @@
 ### 👋 Hi!  I'm Andy.  
 
-I currently lead the Engineering, Data and IT orgs as CTO at [MJH Life Sciences](https://www.mjhlifesciences.com/about/).  MJH is the largest privately held health care media business in North America, reaching roughly 7 million health care professionals every month.  My teams work on personalization, identity, predictive models and recommender systems at scale.  It's great! Come work with us!
+I currently lead the Engineering, Data and IT orgs as CTO at [MJH Life Sciences](https://www.mjhlifesciences.com/about/).  MJH is a healthcare engagement network transforming care from discovery to delivery, reaching 7 million health care professionals every month.  We're transforming the team and organization to be AI-first in engineering and ops, and enabling non-technical builders across the org.  It's great! Come work with us!
 
 Prior to MJH, I led Machine Learning Engineering (MLE) teams at [Audible](https://www.audiblecareers.com/technology) in the city of Newark, where we [launched](https://www.audible.com/about/newsroom/with-maven-audible-offers-first-ai-powered-search-for-audiobooks) LLM search, [scaled](https://medium.com/audible-tech-blog/scaling-recommenders-with-datazoo-lightning-1553a734d5ab) our recommendation infrastructure with extremely-low latency operations over embeddings, and built the [future](https://x.com/soundsmythprod/status/1954725300748833242) of book listening (on public domain titles only, for now).
 
@@ -12,6 +12,6 @@ I'm a product of the [University of Chicago](https://socialsciences.uchicago.edu
 
 I'm the author and maintainer of several open source educational tools, particularly [njschooldata](https://github.com/almartin82/njschooldata), which wraps the hodgepodge of NJ educational data into a consistent, tidy interface you can work with in R.
 
-Ten years on, I'm still carrying a torch for [google reader](https://www.buzzfeed.com/robf4/googles-lost-social-network)🪦.  In the absence of the magic "share with friends" button, I'm the proprieter of [weird charts](http://weirdcharts.com), a love letter to strange and/or captivating charts that I've encountered on the web.  I'm also running a podcast curation and sharing project, [safe to eat](https://almartin82.github.io/safe-to-eat/).  
+Ten years on, I'm still carrying a torch for [google reader](https://www.buzzfeed.com/robf4/googles-lost-social-network)🪦.  In the absence of the magic "share with friends" button, I'm the proprieter of [weird charts](http://weirdcharts.com), a love letter to strange and/or captivating charts that I've encountered on the web.  I'm also running a podcast curation and sharing project, [safe to eat](https://almartin82.github.io/safe-to-eat/), which inspired [splicepod](https://www.splicepod.com) - a platform for building and sharing curated podcast feeds (Android and iOS in private alpha - ping me if you want to join!).  
 
 Drop me a line at [almartin@gmail.com](mailto:almartin@gmail.com) or [linkedin](https://www.linkedin.com/in/martinandrewl/)!
