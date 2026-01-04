@@ -10,8 +10,12 @@ I'm deeply passionate about public education, and dream of a future with a more 
 
 I'm a product of the [University of Chicago](https://socialsciences.uchicago.edu/).  I live in Montgomery, NJ with my amazing, talented wife Kerry and our five children.  
 
-I'm the author and maintainer of several open source educational tools, particularly [njschooldata](https://github.com/almartin82/njschooldata), which wraps the hodgepodge of NJ educational data into a consistent, tidy interface you can work with in R.
+I'm the author and maintainer of several open source educational tools, particularly [njschooldata](https://github.com/almartin82/njschooldata), which wraps the hodgepodge of NJ educational data into a consistent, tidy interface.
 
-Ten years on, I'm still carrying a torch for [google reader](https://www.buzzfeed.com/robf4/googles-lost-social-network)🪦.  In the absence of the magic "share with friends" button, I'm the proprieter of [weird charts](http://weirdcharts.com), a love letter to strange and/or captivating charts that I've encountered on the web.  I'm also running a podcast curation and sharing project, [safe to eat](https://almartin82.github.io/safe-to-eat/), which inspired [splicepod](https://www.splicepod.com) - a platform for building and sharing curated podcast feeds (Android and iOS in private alpha - ping me if you want to join!).  
+Ten years on, I'm still carrying a torch for [google reader](https://www.buzzfeed.com/robf4/googles-lost-social-network)🪦.  Some personal projects:
+
+- [splicepod](https://www.splicepod.com) - your personal podcast mixtape. Build and share curated podcast feeds (Android and iOS in private alpha - ping me if you want to join!)
+- [safe to eat](https://almartin82.github.io/safe-to-eat/) - my personal podcast mixtape, a 5+ year archive of great listens
+- [weird charts](http://weirdcharts.com) - a collection of weird charts  
 
 Drop me a line at [almartin@gmail.com](mailto:almartin@gmail.com) or [linkedin](https://www.linkedin.com/in/martinandrewl/)!
